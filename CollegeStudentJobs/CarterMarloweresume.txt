@@ -1,0 +1,26 @@
+                          
+         Carter Marlowe     
+     carter@email.sc.edu           
+         864-222-0920             
+
+Experiences:
+UofSC
+2019 - 2023
+Bachelors in Computer Information Systems
+
+JP Morgan
+May 2019 - Aug 2019
+Software Developer
+Created a Python program to predict clients needs
+Managed incoming customers and future predictions
+
+Bank of America
+May 2020 - Aug 2020
+Test Engineer
+Internship
+Created JUnit tests cases to test new features of the back end of the banks website
+Executed test cases and reported issues to engineering
+
+
+Skills:
+Python, Java, JavaScript, HTML, CSS, 
